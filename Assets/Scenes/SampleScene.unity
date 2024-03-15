@@ -243,7 +243,7 @@ GameObject:
   - component: {fileID: 93609988}
   - component: {fileID: 93609987}
   m_Layer: 0
-  m_Name: Plane
+  m_Name: dune
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
